@@ -294,6 +294,7 @@ const getMealIdeas = (ingredients: string[]): Recipe[] => {
         "Season with your pantry spices.",
         "Serve as a breakfast or dinner skillet.",
       ],
+      
     });
   }
 
